@@ -1,0 +1,13 @@
+.App {
+  font-family: 'Avenir-Light', sans-serif;
+}
+
+@font-face {
+  font-family: 'Avenir-Light';
+  src: local('Avenir-Light'), url('./fonts/Avenir\ Light.ttf') format('truetype');
+}
+
+a {
+  text-decoration: none;
+}
+
